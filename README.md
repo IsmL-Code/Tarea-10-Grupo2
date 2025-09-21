@@ -1,3 +1,5 @@
+###Grupo 2 - B1
+
 ### Problema 1: Análisis de Temperaturas Mensuales
 
 Este proyecto implementa un programa en Python que analiza las temperaturas promedio mensuales de varias ciudades. El objetivo es calcular promedios anuales, identificar meses extremos (más frío y más caluroso) y determinar la ciudad con mayor variación de temperatura durante el año.
